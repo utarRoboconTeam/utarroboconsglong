@@ -2,6 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
+has_children: true
 ---
 
 Hey there! We are UTAR ROBOCON Team from Sg Long Campus.
