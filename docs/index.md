@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 Hey there! We are UTAR ROBOCON Team from Sg Long Campus.

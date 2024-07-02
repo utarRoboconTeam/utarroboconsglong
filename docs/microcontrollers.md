@@ -2,6 +2,7 @@
 layout: default
 title: How to Choose Microcontrollers for ROBOCON?
 parent: Home
+nav_order: 2
 ---
 
 You have microcontrollers from Arduino, Espressif, STM32 and many more, how should you choose them?
